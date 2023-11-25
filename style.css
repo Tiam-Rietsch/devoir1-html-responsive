@@ -165,7 +165,6 @@ main {
     position: relative;
     top: 50%;
     left: 50%;
-    text-align: center;
     translate: -50% -50%;
     display: inline-block;
     font-size: 1.2em;
@@ -184,6 +183,5 @@ footer > span {
     position: relative;
     top: 50%;
     left: 50%;
-    text-align: center;
     translate: -50% -50%;
 }
